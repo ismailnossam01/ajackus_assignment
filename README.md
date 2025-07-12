@@ -71,8 +71,7 @@ A modern, feature-rich Employee Directory application built with React, TypeScri
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd employee-directory
+git clone https://github.com/ismailnossam01/ajackus_assignment
 ```
 
 2. Install dependencies:
@@ -217,28 +216,3 @@ This project follows modern React best practices:
 - **Import Functionality**: Upload CSV/Excel files
 - **Analytics Dashboard**: Employee statistics and insights
 - **Role-based Access**: Different permissions for different users
-
-## 🎯 Assignment Compliance
-
-This project fulfills all requirements of the AJACKUS company assignment:
-
-✅ **Technologies**: React (modern alternative to vanilla JS), CSS (via Tailwind), TypeScript
-✅ **Pages**: Dashboard with employee list/grid, Add/Edit form
-✅ **Data Handling**: Local array with mock data (no backend)
-✅ **Core Features**: Display, Add, Edit, Delete employees
-✅ **Advanced Features**: Filter, Sort, Search, Pagination
-✅ **Design**: Responsive, clean UI/UX with modern aesthetics
-✅ **Code Quality**: Clean, modular, well-commented TypeScript code
-✅ **Additional Features**: Dark mode, bulk operations, export functionality
-
-## 🏆 Why This Implementation Stands Out
-
-1. **Modern Technology Stack**: Uses React with TypeScript for better maintainability
-2. **Professional Design**: Glassmorphism UI with careful attention to detail
-3. **Excellent UX**: Smooth animations, intuitive interactions, and accessibility
-4. **Advanced Features**: Goes beyond requirements with bulk operations and export
-5. **Code Quality**: Well-structured, typed, and documented codebase
-6. **Responsive Excellence**: Perfect mobile experience with adaptive design
-7. **Performance**: Optimized rendering and efficient state management
-
-This Employee Directory showcases production-ready code with modern development practices, making it an ideal demonstration of front-end development expertise for potential employers.
