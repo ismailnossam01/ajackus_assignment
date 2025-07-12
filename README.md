@@ -2,6 +2,17 @@
 
 A modern, feature-rich Employee Directory application built with React, TypeScript, and Tailwind CSS. This project demonstrates advanced front-end development skills with a focus on user experience, responsive design, and modern web technologies.
 
+###🔗Live Demo
+![link](https://ajackusemployee.netlify.app)
+
+### 📸 Screenshots
+
+#### 🖼️ Dark Mode Editor
+![Light Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-16.png)
+
+#### 🌑 Light Mode Editor
+![Dark Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-46.png)
+
 ## 🚀 Features
 
 ### Core Functionality
