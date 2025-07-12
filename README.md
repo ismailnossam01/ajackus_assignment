@@ -8,10 +8,10 @@ A modern, feature-rich Employee Directory application built with React, TypeScri
 ### 📸 Screenshots
 
 #### 🖼️ Dark Mode Editor
-![Light Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-16.png)
+![Light Mode](media/Screenshot from 2025-07-12 11-16-46.png)
 
 #### 🌑 Light Mode Editor
-![Dark Mode](https://github.com/ismailnossam01/nexstem_intern_assignment/blob/main/media/Screenshot%20from%202025-07-03%2022-35-46.png)
+![Dark Mode](https://github.com/ismailnossam01/ajackus_assignment/blob/main/media/Screenshot%20from%202025-07-12%2011-16-18.png)
 
 ## 🚀 Features
 
